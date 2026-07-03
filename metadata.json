@@ -1,0 +1,6 @@
+{
+  "name": "Game Booster",
+  "description": "A powerful Game Booster application to optimize device performance, manage notification blocking, monitor RAM, and set custom optimization modes for each app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
